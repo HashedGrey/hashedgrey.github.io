@@ -12,7 +12,7 @@ Yes - there's no better Grey than one that is hashed (Security reasons).
 ---
 
 ## Official Website
-- 🌐 [Official Site]https://aggreylelei.com  
+- 🌐 https://aggreylelei.com  
   Writing, projects, and professional profile.
 
 ## GitHub
@@ -20,8 +20,8 @@ Yes - there's no better Grey than one that is hashed (Security reasons).
   Open-source work, experiments, and code.
 
 ## LinkedIn
-- 🌐 https://www.linkedin.com/in/aggrey-lelei 
-  Writing, projects, and professional profile.
+- 🌐 https://www.linkedin.com/in/aggrey-lelei  
+  Professional Connections.
 ---
 
 ---
