@@ -7,7 +7,7 @@ title: Aggrey Lelei
 
 Senior Software Engineer focused on **distributed systems, scalability, and reliability**.
 
-👉 **https://aggreylelei.com**
+👉 [aggreylelei.com]**https://aggreylelei.com**
 
 If you searched for **@hashedgrey**, you’re in the right place.
 
