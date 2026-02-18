@@ -20,6 +20,9 @@ I'm a Senior Software Engineer with 8+ years of experience focused on distribute
 - 💻 https://github.com/hashedgrey  
   Open-source work, experiments, and code.
 
+## LinkedIn
+- 🌐 https://www.linkedin.com/in/aggrey-lelei-154429296/ 
+  Lets connect professionaly.
 ---
 
 ---
